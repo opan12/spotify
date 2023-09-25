@@ -1,0 +1,14 @@
+C:\Users\sudeo\source\repos\spotify\spotify\bin\Debug\net7.0\spotify.exe
+C:\Users\sudeo\source\repos\spotify\spotify\bin\Debug\net7.0\spotify.deps.json
+C:\Users\sudeo\source\repos\spotify\spotify\bin\Debug\net7.0\spotify.runtimeconfig.json
+C:\Users\sudeo\source\repos\spotify\spotify\bin\Debug\net7.0\spotify.dll
+C:\Users\sudeo\source\repos\spotify\spotify\bin\Debug\net7.0\spotify.pdb
+C:\Users\sudeo\source\repos\spotify\spotify\obj\Debug\net7.0\spotify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudeo\source\repos\spotify\spotify\obj\Debug\net7.0\spotify.AssemblyInfoInputs.cache
+C:\Users\sudeo\source\repos\spotify\spotify\obj\Debug\net7.0\spotify.AssemblyInfo.cs
+C:\Users\sudeo\source\repos\spotify\spotify\obj\Debug\net7.0\spotify.csproj.CoreCompileInputs.cache
+C:\Users\sudeo\source\repos\spotify\spotify\obj\Debug\net7.0\spotify.dll
+C:\Users\sudeo\source\repos\spotify\spotify\obj\Debug\net7.0\refint\spotify.dll
+C:\Users\sudeo\source\repos\spotify\spotify\obj\Debug\net7.0\spotify.pdb
+C:\Users\sudeo\source\repos\spotify\spotify\obj\Debug\net7.0\spotify.genruntimeconfig.cache
+C:\Users\sudeo\source\repos\spotify\spotify\obj\Debug\net7.0\ref\spotify.dll
