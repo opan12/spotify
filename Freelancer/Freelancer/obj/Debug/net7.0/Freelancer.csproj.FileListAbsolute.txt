@@ -1,0 +1,14 @@
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.AssemblyInfoInputs.cache
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.AssemblyInfo.cs
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.csproj.CoreCompileInputs.cache
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\bin\Debug\net7.0\Freelancer.exe
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\bin\Debug\net7.0\Freelancer.deps.json
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\bin\Debug\net7.0\Freelancer.runtimeconfig.json
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\bin\Debug\net7.0\Freelancer.dll
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\bin\Debug\net7.0\Freelancer.pdb
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.dll
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\refint\Freelancer.dll
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.pdb
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.genruntimeconfig.cache
+C:\Users\sudeo\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\ref\Freelancer.dll
