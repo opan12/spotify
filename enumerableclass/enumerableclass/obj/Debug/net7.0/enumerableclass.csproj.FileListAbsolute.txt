@@ -1,0 +1,14 @@
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\bin\Debug\net7.0\enumerableclass.exe
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\bin\Debug\net7.0\enumerableclass.deps.json
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\bin\Debug\net7.0\enumerableclass.runtimeconfig.json
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\bin\Debug\net7.0\enumerableclass.dll
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\bin\Debug\net7.0\enumerableclass.pdb
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\obj\Debug\net7.0\enumerableclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\obj\Debug\net7.0\enumerableclass.AssemblyInfoInputs.cache
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\obj\Debug\net7.0\enumerableclass.AssemblyInfo.cs
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\obj\Debug\net7.0\enumerableclass.csproj.CoreCompileInputs.cache
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\obj\Debug\net7.0\enumerableclass.dll
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\obj\Debug\net7.0\refint\enumerableclass.dll
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\obj\Debug\net7.0\enumerableclass.pdb
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\obj\Debug\net7.0\enumerableclass.genruntimeconfig.cache
+C:\Users\sudeo\source\repos\enumerableclass\enumerableclass\obj\Debug\net7.0\ref\enumerableclass.dll
